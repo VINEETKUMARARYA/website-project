@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+.container {
+    background-origin: padding-box;
+    border: 1px solid grey;
+    border-left: 5px solid green;
+    border-radius: 1%;
+    
+
+}
