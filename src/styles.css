@@ -1,13 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 .body {
-    background-color: grey;
-    text-emphasis: none;
+    background-color: linen;
 }
 
 .container {
     background-origin: padding-box;
-    background-color:lightgrey;
+    background-color:lightsteelblue;
     border: 1px solid lightslategray;
-    border-radius: 1%;   
 }
 
