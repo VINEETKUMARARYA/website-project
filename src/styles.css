@@ -1,13 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
-.bg {
+.body {
     background-color: grey;
     text-emphasis: none;
 }
 
 .container {
     background-origin: padding-box;
-    border: 1px solid grey;
-    border-left: 5px solid green;
-    border-radius: 0.5%;   
+    background-color:lightgrey;
+    border: 1px solid lightslategray;
+    border-radius: 1%;   
 }
 
