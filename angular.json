@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "website-project"
+  "defaultProject": "website-project",
+  "cli": {
+    "analytics": false
+  }
 }
